@@ -1,2 +1,2 @@
-# Omnitrix-clone-clytrix-
+# Clytrix 
 an Omnitrix clone made by Ai
